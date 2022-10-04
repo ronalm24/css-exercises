@@ -1,0 +1,14 @@
+.click-button-1, .click-button-2 {
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+
+}
+
+.click-button-1 {
+    background-color: rgb(4, 4, 4);
+    color: white;
+}
+
+.click-button-2 {
+    background-color: yellow;
+}
